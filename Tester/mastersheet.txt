@@ -1,0 +1,14 @@
+Mastersheet
+
+(Diameter, Width) ID
+
+A=(400,133) 2
+B=(900, 133) 2.95
+C=(400,14) 4.88
+D=(900,14) 6.02
+
+
+abdc
+bcad
+cdba
+dacb
